@@ -1,4 +1,5 @@
 package simple;
+//this program calculate simple interest using class, object and methods
  class simpleint {
     public  double calculate(double a,double b,double c){
         return a*b*c;
