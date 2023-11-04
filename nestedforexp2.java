@@ -1,5 +1,5 @@
 package nestedfor;
-
+//this program displays numbers in a 2 columns table
 public class nestedforexp2 {
     public static void main(String[] args) {
         int [][] arr= new int[4][4];
