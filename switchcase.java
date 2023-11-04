@@ -1,3 +1,5 @@
+// this program shows the year the student study in
+
 public class switchcase {
     public static void main(String[] args) {
         int year=1;
