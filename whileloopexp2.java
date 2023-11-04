@@ -1,5 +1,5 @@
 package whileLoop;
-
+// this program calculates the sum of first 1000 numbers using while loop
 public class whileloopexp2 {
     public static void main(String[] args) {
         int a=1;
