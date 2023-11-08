@@ -20,9 +20,6 @@ class yearthree extends yeartwo {
     System.out.println("student passed year 3");
   }
 }
-//class D extends C{
-
-//}
 
 public class interfaceExperiment {
     public static void main(String[] args) {
